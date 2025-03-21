@@ -3,4 +3,5 @@ echo "Currently logged in user is `whoami` "
 echo "You are logged in on host `hostname`"
 echo "Current disk usage of / partition is:"
 df -h /
-echo "You are doing a good progress !!!" 
+echo "You are doing a good progress !!!"
+echo "You are going good shankar!!!" 
